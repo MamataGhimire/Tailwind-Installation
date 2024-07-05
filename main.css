@@ -1,0 +1,26 @@
+
+  
+
+.test {
+  color: #475365 !important ;
+  font-size: 1.125rem;
+}
+
+.font {
+  font-family: Inter var, ui-sans-serif, system-ui, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.box {
+  font-weight: 600;
+  font-size: 0.875rem;
+  padding-top: 0.75rem;
+  padding-bottom: 0.625rem;
+  border-bottom: 1px solid #ffffff00;
+  cursor: pointer;
+}
+
+.box:hover {
+  border-bottom: 1px solid #0412d2;
+  color:#0412d2;
+}
